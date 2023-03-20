@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  rtsp-camera-monitor:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-19T19:34:22.055683878-07:00"
+    description: A Helm chart for Kubernetes
+    digest: 823f43fc00a7a26c292e790a3933fb1eb5c1d1add166c7d4e1c556fb1511f622
+    name: rtsp-camera-monitor
+    type: application
+    urls:
+    - https://dsmithson.github.io/knightware-helm-chart/rtsp-camera-monitor-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-03-19T19:34:22.054722227-07:00"
